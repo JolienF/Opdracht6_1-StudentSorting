@@ -11,7 +11,7 @@ import java.util.Random;
  * 
  * @author Nico Tromp
  */
-public class Student {
+public class Student{
     private static int nextStudentID = 500800001;
     private static Random randomizer = new SecureRandom();
     private int studentID;
